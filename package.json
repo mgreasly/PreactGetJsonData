@@ -1,0 +1,23 @@
+{
+  "name": "preactgetjsondata",
+  "version": "0.0.1",
+  "description": "Preact component to load JSON data to props",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgreasly/PreactGetJsonData.git"
+  },
+  "author": "Marcus Greasly <mgreasly@hotmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/mgreasly/PreactGetJsonData/issues"
+  },
+  "homepage": "https://github.com/mgreasly/PreactGetJsonData#readme",
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "preact": "^8.2.9"
+  }
+}
